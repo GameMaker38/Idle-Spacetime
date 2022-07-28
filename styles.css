@@ -1,0 +1,26 @@
+body {
+  font-family: 'Space Mono', monospace;
+  background-image: url("https://images.pexels.com/photos/1252890/pexels-photo-1252890.jpeg?w=1500");
+  color: white;
+}
+#console {
+  background-color: black;
+  color: lime;
+  opacity: 0.75;
+  text-shadow: 2px 2px 2px grey;
+  font-size: 15px;
+  border-radius: 5px;
+  border-color: lime;
+  border-width: 5px;
+  border-style: solid;
+  padding: 10px;
+}
+#buttons {
+  background-color: black;
+  opacity: 0.5;
+  border-radius: 5px;
+  border-color: lime;
+  border-width: 5px;
+  border-style: solid;
+  padding: 15px;
+}
