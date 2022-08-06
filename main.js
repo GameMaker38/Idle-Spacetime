@@ -1,7 +1,7 @@
 let atoms = 0
 
-document.getElementById("atomcounter").innerHTML = "You have " + atoms + " atoms.";
+document.getElementById("atomcounter").innerHTML = "Atoms: " + atoms;
 
-function makeatoms(number) {
-  let atoms = atoms + number;
+function makeatoms(x) {
+  let atoms = atoms + x;
 }
