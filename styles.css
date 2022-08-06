@@ -24,3 +24,10 @@ body {
   border-style: solid;
   padding: 15px;
 }
+button {
+  opacity: 0.75;
+  border-width: 2px;
+  border-color: lime;
+  background-color: black;
+  color: white;
+}
