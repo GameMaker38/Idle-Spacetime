@@ -9,3 +9,8 @@ function makeatoms(num) {
 function consoleStart() {
   consoleText.innerHTML += "[(Ks#7L-///CONSOLE ERROR --- INSERT QUANTUM PROCESSOR///-!n6$moi&]"
 }
+
+function newMission(mission) {
+  missionDiv.innerHTML += "Mission - " var mission
+
+consoleStart()
